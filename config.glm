@@ -1,6 +1,6 @@
 //////////////CONFIG//////////////////////////////////
 #define STARTTIME="2020-01-30T00:00:00-05:00"
-#define STOPTIME="2020-01-31T00:00:00-05:00"
+#define STOPTIME="2020-01-31T05:00:00-05:00"
 #define RECORDINTERVAL=30
 
 #define TIMEZONE=EST+5EDT
